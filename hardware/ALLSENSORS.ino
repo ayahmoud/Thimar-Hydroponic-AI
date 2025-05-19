@@ -4,8 +4,8 @@
 #include <DallasTemperature.h>
 
 // 🔹 Wi-Fi Credentials
-const char* ssid = "MyHouse";  // Replace with your Wi-Fi SSID
-const char* password = "wx7a52a5";  // Replace with your Wi-Fi password
+const char* ssid = "Name";  // Replace with your Wi-Fi SSID
+const char* password = "password";  // Replace with your Wi-Fi password
 
 // 🔹 Static IP Configuration
 IPAddress local_IP(192, 168, 1, 200);  
