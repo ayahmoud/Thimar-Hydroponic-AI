@@ -4,8 +4,9 @@ Thimar is an integrated smart farming system designed to assist hydroponic growe
 ## Features
 - Real-time sensor monitoring
 - Tomato disease detection using a MobileNetV2-based CNN
-- Firebase integration
-- Tailored recommendations
+- Firebase integration for live data sync
+- Tailored supplement and treatment recommendations
+- User-friendly Mobile interface built with FlutterFlow
 
 ## Tech Stack
 Python, TensorFlow, ESP32, Firebase, FlutterFlow, FastAPI
