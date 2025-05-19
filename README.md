@@ -10,3 +10,8 @@ Thimar is an integrated smart farming system designed to assist hydroponic growe
 
 ## Tech Stack
 Python, TensorFlow, ESP32, Firebase, FlutterFlow, FastAPI
+
+![Mobile App Logo](docs/Thimar logo.png)
+
+
+
